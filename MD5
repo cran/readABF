@@ -1,10 +1,11 @@
-6a8d0520fb5af207bad871c0a03bf790 *DESCRIPTION
+864bb6686549653614e0964230059663 *ChangeLog
+cc81bd6dd9b5e144756b54d0c5f25b8a *DESCRIPTION
 12a087540184adcb920f8fd92e96d859 *NAMESPACE
-dccba56b3cfdf4ef8d6be3b68f49d85d *R/ABF.R
+91d525e90ff8a75fb79b27c9285e485c *R/ABF.R
 7acbcf208abbe035c6cbc602d884ad92 *R/readABF.R
-a1337bb5edfaac9395ef035eee02686b *build/partial.rdb
+2f8a5943abf14a7f9a26ab2310c7afd1 *build/partial.rdb
 91164326a4ba3b81a31a5bf213ef4cb8 *inst/extdata/2009_01_19_0002_varlen_v18.abf
-d87e396b36a44decc2825cb4c16beb47 *man/as.data.frame.ABF.Rd
+697be6491515d027a334bb566cc1141f *man/as.data.frame.ABF.Rd
 af1de40482faff4cbcd8c9ace65f3972 *man/plot.ABF.Rd
 70c963900d953b7845e0ff1f286e10fe *man/print.ABF.Rd
 3455138545adf24f0fea14f6a2847913 *man/readABF-package.Rd
